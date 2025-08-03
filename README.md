@@ -8,7 +8,7 @@ This project applies unsupervised machine learning techniques to segment custome
 
 - **Type**: Unsupervised Machine Learning
 - **Algorithm Used**: KMeans Clustering
-- **Tools**: Python, scikit-learn, pandas, matplotlib, seaborn, Streamlit (optional)
+- **Tools**: Python, scikit-learn, pandas, matplotlib, seaborn
 - **Dataset**: [Mall Customer Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ---
